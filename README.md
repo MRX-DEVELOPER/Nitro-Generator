@@ -1,4 +1,5 @@
 # NightKiller-Nitro-Gen
+![generate](https://user-images.githubusercontent.com/97331306/148949926-2143bc3f-8e26-4fc8-b64e-eb276c037bc8.JPG)
 The fastest nitro generator and checker in the world
 
 If you got any errors join my discord server : https://discord.gg/8TN6k9KHVY
@@ -17,4 +18,4 @@ HOW TO LAUNCH :
 -------------------------
    
 -Launch start.bat
-https://cdn.discordapp.com/attachments/914233540642750465/930449065035055154/Capture.JPG
+![Capture](https://user-images.githubusercontent.com/97331306/148949848-c8b5c67e-b7d4-40fd-8010-b002106b05f7.JPG)
