@@ -1,5 +1,4 @@
-# Nitro-Gen
-# Night-Killer
+# NightKiller-Nitro-Gen
 The fastest nitro generator and checker in the world
 
 If you got any errors join my discord server : https://discord.gg/8TN6k9KHVY
